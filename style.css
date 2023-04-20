@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0px;
+    background-color: rgb(4, 71, 71);
+    color: white;
+}
+
+ .header-space a   {
+    padding-left: 50px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.gap-space {
+padding-right: 50px;
+}
