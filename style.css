@@ -21,5 +21,16 @@
 
 .gap-space {
 padding-right: 50px;
-padding
+}
+
+.main-container {
+    border: 2px red solid ;
+    margin-top: 8%;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 70%; */
+
 }
