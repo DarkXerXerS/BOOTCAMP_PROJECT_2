@@ -26,7 +26,7 @@
 }
 
 .main-container {
-  border: 2px red solid;
+  border: 2px rgb(218, 215, 215) solid;
   margin-top: 8%;
   margin-left: 20%;
   margin-right: 20%;
@@ -34,8 +34,9 @@
   justify-content: center;
   align-items: center;
   /* width: 70%; */
-  border-radius: 12px;
+  border-radius: 35px;
   padding: 40px 20px 20px 30px;
+  box-shadow: 5px 10px  rgb(149, 140, 140);
 }
 
 .section-container h1 {
@@ -48,4 +49,18 @@
     font-size: 22px;
     line-height: 44px;
 
+}
+
+.btn {
+  background-color: rgb(4, 71, 71);
+  padding: 12px 15px;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+  font-size: 17px;
+}
+
+.btn a {
+    color: white;
+    text-decoration: none;
 }
